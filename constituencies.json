@@ -1,0 +1,1727 @@
+{
+  "constituencies": {
+    "clarendon_central": {
+      "parish": "CLARENDON",
+      "constituency": "CLARENDON CENTRAL",
+      "boxes_total": 110,
+      "boxes_counted": 15,
+      "count_percent": 13.64,
+      "rejected_votes": 0,
+      "registered_voters": 33155,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 9000
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 702
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 5
+        }
+      ]
+    },
+    "clarendon_north_central": {
+      "parish": "CLARENDON",
+      "constituency": "CLARENDON NORTH CENTRAL",
+      "boxes_total": 100,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 24642,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "clarendon_north_western": {
+      "parish": "CLARENDON",
+      "constituency": "CLARENDON NORTH WESTERN",
+      "boxes_total": 107,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 28540,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "clarendon_northern": {
+      "parish": "CLARENDON",
+      "constituency": "CLARENDON NORTHERN",
+      "boxes_total": 97,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 25222,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "clarendon_south_eastern": {
+      "parish": "CLARENDON",
+      "constituency": "CLARENDON SOUTH EASTERN",
+      "boxes_total": 135,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 46164,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "clarendon_south_western": {
+      "parish": "CLARENDON",
+      "constituency": "CLARENDON SOUTH WESTERN",
+      "boxes_total": 96,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 30185,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "hanover_eastern": {
+      "parish": "HANOVER",
+      "constituency": "HANOVER EASTERN",
+      "boxes_total": 95,
+      "boxes_counted": 12,
+      "count_percent": 12.63,
+      "rejected_votes": 0,
+      "registered_voters": 26350,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 2231
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 1223
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "hanover_western": {
+      "parish": "HANOVER",
+      "constituency": "HANOVER WESTERN",
+      "boxes_total": 111,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 34621,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "kingston_central": {
+      "parish": "KINGSTON",
+      "constituency": "KINGSTON CENTRAL",
+      "boxes_total": 80,
+      "boxes_counted": 56,
+      "count_percent": 70,
+      "rejected_votes": 0,
+      "registered_voters": 22854,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 6789
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 980
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "kingston_east__port_royal": {
+      "parish": "KINGSTON",
+      "constituency": "KINGSTON EAST & PORT ROYAL",
+      "boxes_total": 88,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 26968,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "kingston_western": {
+      "parish": "KINGSTON",
+      "constituency": "KINGSTON WESTERN",
+      "boxes_total": 89,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 24567,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "manchester_central": {
+      "parish": "MANCHESTER",
+      "constituency": "MANCHESTER CENTRAL",
+      "boxes_total": 128,
+      "boxes_counted": 45,
+      "count_percent": 35.16,
+      "rejected_votes": 0,
+      "registered_voters": 42072,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 5000
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 2000
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "manchester_north_eastern": {
+      "parish": "MANCHESTER",
+      "constituency": "MANCHESTER NORTH EASTERN",
+      "boxes_total": 106,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 31228,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "manchester_north_western": {
+      "parish": "MANCHESTER",
+      "constituency": "MANCHESTER NORTH WESTERN",
+      "boxes_total": 100,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 30158,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "manchester_southern": {
+      "parish": "MANCHESTER",
+      "constituency": "MANCHESTER SOUTHERN",
+      "boxes_total": 114,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 35499,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "portland_eastern": {
+      "parish": "PORTLAND",
+      "constituency": "PORTLAND EASTERN",
+      "boxes_total": 127,
+      "boxes_counted": 21,
+      "count_percent": 16.54,
+      "rejected_votes": 0,
+      "registered_voters": 39395,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 5546
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 3000
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "portland_western": {
+      "parish": "PORTLAND",
+      "constituency": "PORTLAND WESTERN",
+      "boxes_total": 102,
+      "boxes_counted": 1,
+      "count_percent": 0.98,
+      "rejected_votes": 0,
+      "registered_voters": 24307,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 800
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 343
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_andrew_east_central": {
+      "parish": "ST. ANDREW",
+      "constituency": "ST. ANDREW EAST CENTRAL",
+      "boxes_total": 111,
+      "boxes_counted": 1,
+      "count_percent": 0.9,
+      "rejected_votes": 0,
+      "registered_voters": 32311,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 800
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 343
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_andrew_east_rural": {
+      "parish": "ST. ANDREW",
+      "constituency": "ST. ANDREW EAST RURAL",
+      "boxes_total": 132,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 42310,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_andrew_eastern": {
+      "parish": "ST. ANDREW",
+      "constituency": "ST. ANDREW EASTERN",
+      "boxes_total": 110,
+      "boxes_counted": 10,
+      "count_percent": 9.09,
+      "rejected_votes": 0,
+      "registered_voters": 29167,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 8000
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 3430
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_andrew_north_central": {
+      "parish": "ST. ANDREW",
+      "constituency": "ST. ANDREW NORTH CENTRAL",
+      "boxes_total": 79,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 23227,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_andrew_north_eastern": {
+      "parish": "ST. ANDREW",
+      "constituency": "ST. ANDREW NORTH EASTERN",
+      "boxes_total": 76,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 21651,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_andrew_north_western": {
+      "parish": "ST. ANDREW",
+      "constituency": "ST. ANDREW NORTH WESTERN",
+      "boxes_total": 108,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 31929,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_andrew_south_eastern": {
+      "parish": "ST. ANDREW",
+      "constituency": "ST. ANDREW SOUTH EASTERN",
+      "boxes_total": 90,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 22399,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_andrew_south_western": {
+      "parish": "ST. ANDREW",
+      "constituency": "ST. ANDREW SOUTH WESTERN",
+      "boxes_total": 92,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 26940,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_andrew_southern": {
+      "parish": "ST. ANDREW",
+      "constituency": "ST. ANDREW SOUTHERN",
+      "boxes_total": 84,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 25725,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_andrew_west_central": {
+      "parish": "ST. ANDREW",
+      "constituency": "ST. ANDREW WEST CENTRAL",
+      "boxes_total": 103,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 31985,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_andrew_west_rural": {
+      "parish": "ST. ANDREW",
+      "constituency": "ST. ANDREW WEST RURAL",
+      "boxes_total": 132,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 41350,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_andrew_western": {
+      "parish": "ST. ANDREW",
+      "constituency": "ST. ANDREW WESTERN",
+      "boxes_total": 130,
+      "boxes_counted": 130,
+      "count_percent": 100,
+      "rejected_votes": 0,
+      "registered_voters": 38951,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 36000
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 615
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 5
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 5
+        }
+      ]
+    },
+    "st_ann_north_eastern": {
+      "parish": "ST. ANN",
+      "constituency": "ST. ANN NORTH EASTERN",
+      "boxes_total": 140,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 44188,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_ann_north_western": {
+      "parish": "ST. ANN",
+      "constituency": "ST. ANN NORTH WESTERN",
+      "boxes_total": 127,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 40780,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_ann_south_eastern": {
+      "parish": "ST. ANN",
+      "constituency": "ST. ANN SOUTH EASTERN",
+      "boxes_total": 126,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 32765,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_ann_south_western": {
+      "parish": "ST. ANN",
+      "constituency": "ST. ANN SOUTH WESTERN",
+      "boxes_total": 103,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 28126,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_catherine_central": {
+      "parish": "ST. CATHERINE",
+      "constituency": "ST. CATHERINE CENTRAL",
+      "boxes_total": 109,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 33193,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_catherine_east_central": {
+      "parish": "ST. CATHERINE",
+      "constituency": "ST. CATHERINE EAST CENTRAL",
+      "boxes_total": 90,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 30697,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_catherine_eastern": {
+      "parish": "ST. CATHERINE",
+      "constituency": "ST. CATHERINE EASTERN",
+      "boxes_total": 118,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 34501,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_catherine_north_central": {
+      "parish": "ST. CATHERINE",
+      "constituency": "ST. CATHERINE NORTH CENTRAL",
+      "boxes_total": 104,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 33247,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_catherine_north_eastern": {
+      "parish": "ST. CATHERINE",
+      "constituency": "ST. CATHERINE NORTH EASTERN",
+      "boxes_total": 107,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 24747,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_catherine_north_western": {
+      "parish": "ST. CATHERINE",
+      "constituency": "ST. CATHERINE NORTH WESTERN",
+      "boxes_total": 118,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 37130,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_catherine_south_central": {
+      "parish": "ST. CATHERINE",
+      "constituency": "ST. CATHERINE SOUTH CENTRAL",
+      "boxes_total": 100,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 30673,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_catherine_south_eastern": {
+      "parish": "ST. CATHERINE",
+      "constituency": "ST. CATHERINE SOUTH EASTERN",
+      "boxes_total": 122,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 40897,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_catherine_south_western": {
+      "parish": "ST. CATHERINE",
+      "constituency": "ST. CATHERINE SOUTH WESTERN",
+      "boxes_total": 137,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 43490,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_catherine_southern": {
+      "parish": "ST. CATHERINE",
+      "constituency": "ST. CATHERINE SOUTHERN",
+      "boxes_total": 138,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 43353,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_catherine_west_central": {
+      "parish": "ST. CATHERINE",
+      "constituency": "ST. CATHERINE WEST CENTRAL",
+      "boxes_total": 120,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 32315,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_elizabeth_north_eastern": {
+      "parish": "ST. ELIZABETH",
+      "constituency": "ST. ELIZABETH NORTH EASTERN",
+      "boxes_total": 120,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 36811,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_elizabeth_north_western": {
+      "parish": "ST. ELIZABETH",
+      "constituency": "ST. ELIZABETH NORTH WESTERN",
+      "boxes_total": 87,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 23180,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_elizabeth_south_eastern": {
+      "parish": "ST. ELIZABETH",
+      "constituency": "ST. ELIZABETH SOUTH EASTERN",
+      "boxes_total": 104,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 32905,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_elizabeth_south_western": {
+      "parish": "ST. ELIZABETH",
+      "constituency": "ST. ELIZABETH SOUTH WESTERN",
+      "boxes_total": 105,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 34084,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_james_central": {
+      "parish": "ST. JAMES",
+      "constituency": "ST. JAMES CENTRAL",
+      "boxes_total": 99,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 32300,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_james_east_central": {
+      "parish": "ST. JAMES",
+      "constituency": "ST. JAMES EAST CENTRAL",
+      "boxes_total": 112,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 33918,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_james_north_western": {
+      "parish": "ST. JAMES",
+      "constituency": "ST. JAMES NORTH WESTERN",
+      "boxes_total": 95,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 30929,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_james_southern": {
+      "parish": "ST. JAMES",
+      "constituency": "ST. JAMES SOUTHERN",
+      "boxes_total": 106,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 29674,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_james_west_central": {
+      "parish": "ST. JAMES",
+      "constituency": "ST. JAMES WEST CENTRAL",
+      "boxes_total": 101,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 31381,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_mary_central": {
+      "parish": "ST. MARY",
+      "constituency": "ST. MARY CENTRAL",
+      "boxes_total": 101,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 28629,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_mary_south_eastern": {
+      "parish": "ST. MARY",
+      "constituency": "ST. MARY SOUTH EASTERN",
+      "boxes_total": 107,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 26221,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_mary_western": {
+      "parish": "ST. MARY",
+      "constituency": "ST. MARY WESTERN",
+      "boxes_total": 140,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 40139,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_thomas_eastern": {
+      "parish": "ST. THOMAS",
+      "constituency": "ST. THOMAS EASTERN",
+      "boxes_total": 123,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 33350,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "st_thomas_western": {
+      "parish": "ST. THOMAS",
+      "constituency": "ST. THOMAS WESTERN",
+      "boxes_total": 152,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 42677,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "trelawny_northern": {
+      "parish": "TRELAWNY",
+      "constituency": "TRELAWNY NORTHERN",
+      "boxes_total": 135,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 38135,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "trelawny_southern": {
+      "parish": "TRELAWNY",
+      "constituency": "TRELAWNY SOUTHERN",
+      "boxes_total": 95,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 25209,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "westmoreland_central": {
+      "parish": "WESTMORELAND",
+      "constituency": "WESTMORELAND CENTRAL",
+      "boxes_total": 167,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 47741,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "westmoreland_eastern": {
+      "parish": "WESTMORELAND",
+      "constituency": "WESTMORELAND EASTERN",
+      "boxes_total": 117,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 31020,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    },
+    "westmoreland_western": {
+      "parish": "WESTMORELAND",
+      "constituency": "WESTMORELAND WESTERN",
+      "boxes_total": 121,
+      "boxes_counted": 0,
+      "count_percent": 0,
+      "rejected_votes": 0,
+      "registered_voters": 39723,
+      "results": [
+        {
+          "candidate_id": "pnp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "jlp",
+          "votes": 0
+        },
+        {
+          "candidate_id": "uic",
+          "votes": 0
+        },
+        {
+          "candidate_id": "indp",
+          "votes": 0
+        }
+      ]
+    }
+  },
+  "candidates": {
+    "pnp": {
+      "name": "Candidate - PNP",
+      "party": "PNP",
+      "constituency": ""
+    },
+    "jlp": {
+      "name": "Candidate - JLP",
+      "party": "JLP",
+      "constituency": ""
+    },
+    "uic": {
+      "name": "Candidate - UIC",
+      "party": "UIC",
+      "constituency": ""
+    },
+    "indp": {
+      "name": "Candidate - INDEPENDENT",
+      "party": "INDP",
+      "constituency": ""
+    }
+  }
+}
